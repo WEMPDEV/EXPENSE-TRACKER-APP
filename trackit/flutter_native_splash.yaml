@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#1C0642"
+  color_dark: "#1C0642"
+  image: images/Logo/Trackit Logo.jpg
+  image_dark: images/Logo/Trackit Logo.jpg
+  ios: true
+  android: true
+
+  android_12:
+    color: "#1C0642"
+    color_dark: "#1C0642"
+    image: images/Logo/Trackit Logo.jpg
+    image_dark: images/Logo/Trackit Logo.jpg
+
+  web: false
