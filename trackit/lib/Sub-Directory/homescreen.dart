@@ -35,16 +35,6 @@ class _HomeScreenState extends State<HomeScreen> {
           )
         ],
       ),
-        
-        //     Text(
-        //       'Hi, Welcome Back :\n ${widget.username} ',
-        //       textAlign: TextAlign.center,
-        //       style: TextStyle(
-        //         fontFamily: 'Lilita_One',
-        //         fontSize: 20,
-        //         fontWeight: FontWeight.w100,
-        //       ),
-        //     ),
       
       body: Container(
         color: Theme.of(context).colorScheme.inversePrimary,
